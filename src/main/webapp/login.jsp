@@ -33,7 +33,7 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text"> <i class="fa fa-lock"></i> </span>
                     </div>
-                    <input name="password" class="form-control" placeholder="*****" type="password">
+                    <input name="password" class="form-control" placeholder="Password" type="password">
                 </div>
             </div>
             <div class="form-group">
