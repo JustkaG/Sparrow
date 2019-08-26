@@ -29,6 +29,8 @@ public class HomeServlet extends HttpServlet {
         String password = null;
 
         req.getRequestDispatcher("/login.jsp").forward(req, resp);
+
+
     }
 
     @Override
